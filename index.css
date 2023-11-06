@@ -1,0 +1,27 @@
+ul {
+    list-style-type: none;
+}
+
+.top-nav {
+    display: flex;
+    align-items: center;
+   /* background-color: #eee; */
+    display:inline;
+}
+
+.logo {
+    height: 100px;
+    width: 100px
+}
+
+.top-nav-list li {
+    display: inline;
+    padding: 10px;
+    align-items: center;
+}
+
+.protrait {
+    border-radius: 50%;
+    width: 10em;
+    height: 10em;
+}
