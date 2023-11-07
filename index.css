@@ -28,8 +28,18 @@ ul {
     align-items: center;
 }
 
+.list-hover:hover {
+    background-color: blueviolet;
+}
+
 .protrait {
     border-radius: 50%;
     width: 10em;
     height: 10em;
+}
+
+.mascot {
+    border-radius: 50%;
+    width: 20em;
+    height: 20em;
 }
