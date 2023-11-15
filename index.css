@@ -9,13 +9,16 @@ ul {
 .top-nav {
     display: flex;
     align-items: center;
-    /* display:inline; */
+    
+    overflow: hidden;
 }
 
 .logo {
     height: 100px;
     width: 100px
 }
+
+
 
 .top-nav-list ul {
     list-style-type: none;
